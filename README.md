@@ -1,6 +1,6 @@
-## Hi there 👋
+## Oi, pessoal! 👋
 
-I'm Matheus Galiano! I'm a FullStack programmer. I'm currently learning and creating projects with technologies such as: 
+Eu sou Matheus Galiano! Sou programador frontend. Atualmente, estou aprendendo e criando projetos com tecnologias como:
 
 - <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -9,9 +9,10 @@ I'm Matheus Galiano! I'm a FullStack programmer. I'm currently learning and crea
 - <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-I'm also a Software Engineering student. I'm constantly seeking knowledge and improvements for my projects.
 
-### Connect with me: 
+Também sou estudante de Engenharia de Software e estou constantemente em busca de conhecimento e melhorias para meus projetos.
+
+### Conecte-se comigo: 
 <p>
 <a href="https://www.linkedin.com/in/matheusgaliano/"> 
   <img align=left alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />  
