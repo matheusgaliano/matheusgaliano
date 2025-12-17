@@ -31,7 +31,6 @@
   <h3>📊 GitHub Stats</h3>
   <div align="center">
     <a href="https://github.com/matheusgaliano">
-      <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusgaliano&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgaliano&layout=compact&theme=dracula"/>
     </a>
   </div>
