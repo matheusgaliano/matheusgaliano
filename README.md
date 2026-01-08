@@ -1,12 +1,12 @@
 <div align="center">
   
   <h1>Olá, sou Matheus Galiano!</h1>
-  <h3>Desenvolvedor Full Stack</h3>
+  <h3>Desenvolvedor Backend</h3>
 
   <br/>
 
   <p>
-    Sou estudante de <b>Engenharia de Software</b> e desenvolvedor focado em Frontend e Back-end (Fullstack em construção!).
+    Sou estudante de <b>Engenharia de Software</b> e desenvolvedor focado em Backend, mas entendo alguma coisinha de frontend também.
     <br/>
     Estou sempre buscando criar projetos que resolvam problemas reais e aprendendo novas stacks para a minha evolução na carreira.
   </p>
