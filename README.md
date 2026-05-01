@@ -1,42 +1,34 @@
-<div align="center">
-  
-  <h1>Bem-vindo(a)! Eu sou Matheus Galiano!</h1>
-  <h3>Desenvolvedor Backend Jr</h3>
+# Olá, eu sou o Matheus Galiano!
 
-  <br/>
+[cite_start]Sou um desenvolvedor focado em **Backend**, atualmente graduando em **Engenharia de Software** pela Estácio[cite: 5, 32]. [cite_start]Tenho experiência prática na construção de APIs escaláveis, sistemas de autenticação e otimização de processos através da tecnologia[cite: 6, 7].
 
-  <p>
-    Sou estudante de <b>Engenharia de Software</b> e desenvolvedor focado em Backend, mas tenho conhecimento de frontend também.
-    <br/>
-    Estou sempre buscando criar projetos que resolvam problemas reais, aprendendo e consolidando novas stacks para a minha evolução na carreira.
-  </p>
+### 🛠️ Tecnologias e Ferramentas
 
-  <br/>
+* [cite_start]**Linguagens:** Python, JavaScript (ES6+), SQL[cite: 10].
+* **Backend & Frameworks:** Django, Node.js, FastAPI, Express e APIs RESTful.
+* [cite_start]**Banco de Dados:** PostgreSQL, MongoDB, MySQL e Firebase[cite: 12, 18, 21, 29].
+* **DevOps & Ferramentas:** Docker, Git, GitHub e modelagem de sistemas com UML.
 
-  <h3>Tech Stack</h3>
-  
-  <img alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img alt="Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" /> <img alt="Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" /> <img alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img alt="Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img alt="Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+### 🚀 Projetos em Destaque
 
-  <br/><br/>
+* [cite_start]**Painel de Carregamento Inteligente:** Solução Fullstack (JS + Firebase) desenvolvida para otimizar a logística em uma distribuidora parceira da Ambev, implementando resiliência offline e sincronização em tempo real[cite: 19, 20, 22].
+* [cite_start]**Clone Linktree:** Aplicação desenvolvida com Django (Backend) e React (Frontend) para centralização de links[cite: 15, 16].
+* **Encurtador de URL:** Desenvolvido com FastAPI e Alembic para gerenciamento de migrações.
 
-  <h3>📊 GitHub Stats</h3>
-  <a href="https://github.com/matheusgaliano">
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusgaliano&layout=compact&theme=dracula"/>
-  </a>
+### 💼 Experiência Profissional
 
-  <br/><br/>
+* **Pretor Concursos:** Atuei por 4 anos como Desenvolvedor Web e Administrador, garantindo a infraestrutura e segurança de uma plataforma de ensino para centenas de alunos.
+* [cite_start]**Cargnelutti (Ambev):** Atuação estratégica como intraempreendedor, onde digitalizei fluxos logísticos manuais através do desenvolvimento de software[cite: 24, 25].
+* **Ardumtech:** Fundador desta iniciativa focada em engenharia de software full-stack.
 
-  <h3>📫 Conecte-se comigo</h3>
-  <a href="https://www.linkedin.com/in/matheusgaliano/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="mailto:galiano.matheus@outlook.com">
-    <img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/matheus.galianos/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  
-  <br/>
+### 📚 Educação e Certificações
 
-</div>
+* [cite_start]**Graduação em Engenharia de Software** – Estácio (Em andamento)[cite: 32].
+* **Formação Fullstack (140h)** – DevClub.
+
+---
+
+### 📫 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusgaliano/)
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:galiano.matheus@outlook.com)
